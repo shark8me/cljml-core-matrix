@@ -1,4 +1,4 @@
-(defproject cljml-core-matrix "0.1.0-SNAPSHOT"
+(defproject cljml-core-matrix "0.1.0"
   :description "Converts Weka datasets to core.matrix datasets and vice-versa"
   :url "https://github.com/shark8me/cljml-core-matrix"
   :license {:name "Eclipse Public License"
